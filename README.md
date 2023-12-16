@@ -42,6 +42,8 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 ![Screenshot 2023-11-27 081528](https://github.com/pavithran2046/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/139334834/ec6765db-05d0-407a-8ffa-7fe9d2eb847f)
+![Screenshot 2023-12-16 084402](https://github.com/pavithran2046/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/139334834/6e688761-66ae-456f-b42d-e30f02844361)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
